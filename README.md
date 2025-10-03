@@ -66,7 +66,7 @@ Rede social acadêmica para interação entre alunos e professores. Possui feed 
 ## 📫 Contato
 
 <p align="center">
-  <a href="www.linkedin.com/in/felipe-simões-shimizu-a3bb11321">
+  <a href="www.linkedin.com/in/felipesshimizu">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
