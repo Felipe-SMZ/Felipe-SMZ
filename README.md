@@ -96,15 +96,6 @@ Rede social acadêmica para interação entre alunos e professores. Feed de publ
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Felipe-SMZ&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-SMZ&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</div>
-
----
-
 <div align="center">
 
 **Disponível para estágio e oportunidades Jr em backend**
