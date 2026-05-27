@@ -21,7 +21,7 @@ Antes da programação, acumulei **15+ anos de experiência profissional** — g
 
 Essa bagagem me permite entender o problema antes de escrever a solução.
 
-- 📍 Cotia — SP, Brasil
+- 📍 São Paulo — SP, Brasil
 - 🎯 Foco atual: Backend Java · Spring Boot · arquitetura REST · testes unitários
 - 🚀 Buscando oportunidade de estágio ou Jr em desenvolvimento backend
 - 🌱 Estudando: Docker · PostgreSQL · TypeScript · boas práticas de arquitetura
