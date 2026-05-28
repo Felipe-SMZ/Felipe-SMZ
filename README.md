@@ -143,17 +143,6 @@ API REST robusta para gerenciamento de blog com autenticação JWT, controle de 
 
 [![Repositório](https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Felipe-SMZ/Blog)
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Felipe-SMZ&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-SMZ&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
-
-</div>
 
 ---
 
