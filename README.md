@@ -14,7 +14,7 @@
 
 ## Sobre mim
 
-Desenvolvedor backend com foco em **Java e Spring Boot**, estudante de Desenvolvimento de Software Multiplataforma na **FATEC Cotia** (4º semestre).
+Desenvolvedor backend com foco em **Java e Spring Boot**, estudante de Desenvolvimento de Software Multiplataforma na **FATEC Cotia** (5º semestre).
 
 Antes da programação, acumulei 15+ anos de experiência profissional — gestão operacional em empresa familiar, departamento de licitações em gestão hospitalar e **4 anos na indústria automotiva japonesa**. Essa bagagem me trouxe precisão, disciplina e orientação a qualidade que aplico diretamente no código que escrevo.
 
